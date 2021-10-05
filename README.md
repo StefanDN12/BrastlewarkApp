@@ -1,5 +1,5 @@
 # BrastlewarkApp
-Esta pequeña aplicación  es una demostración de los conocimientos que he ido adquiriendo sobre la programación Android.
+Esta pequeña aplicación  es una demostración de los conocimientos que he ido adquiriendo sobre la programación Android y especialmente en el lenguaje Kotlin.
 
 La aplicacion incluye: 
 - MvvM (Arquitectura recomendada por Google)
